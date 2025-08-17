@@ -157,6 +157,14 @@
     />
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Roysintax&theme=transparent&range=last_7_days&v=1"
+      alt="WakaTime Stats"
+    />
+  </a>
+</div>
 
 <!-- Opsi: sembunyikan bahasa tertentu -->
 <!-- Tambah &hide=html,css,scss,less,md,ipynb (sesuai kebutuhan) -->
