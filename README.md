@@ -107,7 +107,7 @@
 
 ## 📌 Portofolio Terpilih
 
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
+- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>](https://github.com/Roysintax/restoran)">Restoranku</a> — Laravel.
 - 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
 - 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
 - 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
