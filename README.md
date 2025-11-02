@@ -105,70 +105,44 @@
 
 ---
 
-## 📌 Portofolio Terpilih
+## 📌 Portofolio 
 
 - 🔗 **Restoran:** <a href="https://github.com/Roysintax/restoran#">Klik Disini</a> — Laravel.
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
-- 🔗 **name_project:** <a href="https://github.com/<USERNAME>/<REPO-IOT>">name_project</a> — tools-dipakai.
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Roysintax&show_icons=true&rank_icon=github&theme=transparent&cache_seconds=21600"
-      height="160"
-      alt="GitHub Stats - Roysintax"
-    />
-  </a>
-  <!-- Streak Card -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=Roysintax&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=id"
-      height="160"
-      alt="GitHub Streak - Roysintax"
-    />
-  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Roysintax&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&cache_seconds=21600"
+      height="160"
+      alt="GitHub Stats - Roysintax"
+    />
+  </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=Roysintax&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=id"
+      height="160"
+      alt="GitHub Streak - Roysintax"
+    />
+  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roysintax&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&cache_seconds=21600"
+      height="160"
+      alt="Top Languages - Roysintax"
+    />
+  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Roysintax&theme=transparent&hide_border=true&range=last_7_days&v=1"
+      alt="WakaTime Stats"
+    />
+  </a>
 </div>
-
-<!-- Top Languages -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roysintax&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=transparent&cache_seconds=21600"
-      height="160"
-      alt="Top Languages - Roysintax"
-    />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Roysintax&theme=transparent&range=last_7_days&v=1"
-      alt="WakaTime Stats"
-    />
-  </a>
-</div>
-
-<!-- Opsi: sembunyikan bahasa tertentu -->
-<!-- Tambah &hide=html,css,scss,less,md,ipynb (sesuai kebutuhan) -->
-
 ---
 
 ## 🤝 Kontak & Kolaborasi
