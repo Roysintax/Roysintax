@@ -65,3 +65,13 @@ jobs:
           plugin_people_limit: 24                         # Tampilkan 24 orang
           plugin_people_size: 28
           plugin_people_types: "followers, following"
+
+          # Plugin WakaTime (menggunakan Secret yang sama)
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }} # Otomatis pakai Secret Anda
+          plugin_wakatime_days: 7                               # Tampilkan 7 hari terakhir
+          plugin_wakatime_sections: "time, projects, projects-graphs, languages, languages-graphs"
+          plugin_wakatime_limit: 5
+          plugin_wakatime_recent_days: 14
+          plugin_wakatime_recent_load: 300
+          plugin_wakatime_timezone: "Asia/Jakarta"
