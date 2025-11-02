@@ -114,36 +114,7 @@
 
 ## 📊 GitHub Stats
 
-name: WakaTime Stats
-
-on:
-  schedule:
-    # Berjalan setiap 6 jam
-    - cron: '0 */6 * * *'
-  workflow_dispatch: # Ini agar Anda bisa menjalankannya manual
-
-jobs:
-  update-readme:
-    name: Update WakaTime Stats
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: athul/waka-readme-stats@master
-        with:
-          # Ambil API key dari GitHub Secrets
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          
-          # === OPSI TAMBAHAN (Sesuai Gambar Anda) ===
-          
-          # Atur rentang waktu (gambar Anda adalah "last year")
-          RANGE: 'last_year' 
-          
-          # Tampilkan judul
-          SHOW_TITLE: 'True'
-          TITLE_TEXT: 'WakaTime Stats (last year)'
-          
-          # Tampilkan waktu total
-          SHOW_TOTAL_TIME: 'True'
+<img src="github-metrics.svg" alt="Metrics" width="100%">
 
 ## 🤝 Kontak & Kolaborasi
 
