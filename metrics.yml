@@ -1,0 +1,67 @@
+# File: .github/workflows/metrics.yml
+name: GitHub Metrics
+on:
+  # Jalankan setiap 6 jam
+  schedule: [{cron: "0 */6 * * *"}]
+  # Izinkan untuk dijalankan manual
+  workflow_dispatch:
+  # Jalankan saat push ke branch 'master' (opsional, jika Anda ingin update cepat)
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Username GitHub Anda
+          user: Roysintax
+          
+          # Token GitHub (WAJIB agar bisa mengakses data)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # === PENGATURAN "KEREN" ===
+          
+          # Tampilan (layout) dasar
+          # base: header = judul, activity = aktivitas terbaru, community = stats komunitas
+          base: header, activity, community, metadata
+          
+          # -------------------------------------------------
+          # PLUGIN (Ini bagian "keren"-nya)
+          # -------------------------------------------------
+          
+          # Plugin Bahasa (lebih detail dari yang standar)
+          plugin_languages: yes
+          plugin_languages_limit: 8                       # Tampilkan 8 bahasa teratas
+          plugin_languages_threshold: "2%"                # Sembunyikan bahasa di bawah 2%
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: "markup, programming"
+          plugin_languages_colors: "github"
+          plugin_languages_layout: "compact"              # Layout "compact"
+          plugin_languages_recent_categories: "markup, programming"
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: "most-used"
+
+          # Plugin Kebiasaan (jam berapa Anda sering commit)
+          plugin_habits: yes
+          plugin_habits_from: 200                         # Hitung dari 200 commit terakhir
+          plugin_habits_days: 14                          # Lihat 14 hari terakhir
+          plugin_habits_charts: yes                       # Tampilkan chart
+          plugin_habits_layout: "default"
+
+          # Plugin Baris Kode
+          plugin_lines: yes
+          plugin_lines_history: 1
+          plugin_lines_analysis_timeout: 30
+          
+          # Plugin Proyek Pilihan
+          plugin_projects: yes
+          plugin_projects_limit: 4                        # Tampilkan 4 proyek
+          
+          # Plugin Orang (follower, following)
+          plugin_people: yes
+          plugin_people_limit: 24                         # Tampilkan 24 orang
+          plugin_people_size: 28
+          plugin_people_types: "followers, following"
