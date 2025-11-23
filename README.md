@@ -1,121 +1,97 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi, I'm Roysihan junior Programmer 👋</h1>
-<p align="center">
-  Machine Learning • Full-Stack Web Developer • IoT & Arduino
-</p>
+# 👨‍💻 **Welcome to My Professional Profile!** 👨‍💻
 
-<!-- FIELD LOGOS -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="56" alt="Machine Learning" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="56" alt="Full-Stack Web" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" height="56" alt="IoT & Arduino" />
-</p>
-
-<!-- CONTACT BADGES -->
-<p align="center">
-  <a href="mailto:<YOUR_EMAIL>">
-    <img alt="Email" src="https://img.shields.io/badge/Email-contact%40example.com-blue?logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/<YOUR_LINKEDIN>/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://<YOUR_WEBSITE>">
-    <img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-111?logo=firefox-browser&logoColor=white">
-  </a>
-</p>
+Hi, I'm **[Your Name]**, a passionate **Cybersecurity Expert**, **Machine Learning Enthusiast**, **IoT Developer**, and **Fullstack Developer**. I love to solve complex problems and build cutting-edge solutions. Below is a quick overview of my skills and the tools I use.
 
 ---
 
-## 👨‍💻 Tentang Saya
+### ⚡ **Skills & Tools**
+#### 🛡️ **Cybersecurity**
+- Network Security
+- Penetration Testing
+- Encryption & Cryptography
+- Ethical Hacking
 
-- Membangun **model ML** end-to-end: eksperimen, pelatihan, evaluasi, dan deployment.
-- Mengembangkan **aplikasi web** dari frontend hingga backend dengan praktik clean architecture.
-- Merancang **perangkat IoT** berbasis Arduino/ESP32: sensor, komunikasi MQTT, dan dashboard.
-- Fokus pada **DX** (developer experience): otomasi CI/CD, testing, dan dokumentasi rapih.
-
----
-
-## 🧰 Tech Stack
-
-### Machine Learning & Data
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="36" alt="PyTorch" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="36" alt="TensorFlow" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="36" alt="scikit-learn" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="36" alt="pandas" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="36" alt="NumPy" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="36" alt="Jupyter" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="36" alt="OpenCV" />
-</p>
-
-### Web (Frontend & Backend)
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="34" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="34" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="34" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="22" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="22" alt="Express" />
-  <!-- Laravel (Devicon via jsDelivr, stabil) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="34" alt="Laravel" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="34" alt="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="34" alt="Bootstrap" />
-</p>
-
-### Databases, DevOps & Tools
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="34" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="34" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="34" alt="SQLite" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="34" alt="Redis" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="34" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="34" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" height="22" alt="GitHub Actions" />
-</p>
-
-### IoT & Embedded
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" height="34" alt="Arduino" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" height="34" alt="Raspberry Pi" />
-  <!-- PlatformIO (Simple Icons via jsDelivr) -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/platformio.svg" height="34" alt="PlatformIO" />
-
-  <img src="https://img.shields.io/badge/MQTT-660066?logo=eclipsemosquitto&logoColor=white" height="22" alt="MQTT" />
-  <img src="https://img.shields.io/badge/ESP32-Espressif-CC0000?logo=esphome&logoColor=white" height="22" alt="ESP32" />
-</p>
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-333333?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333333?style=for-the-badge&logo=burp-suite&logoColor=white)
 
 ---
 
-## 🚀 Fokus Proyek
+#### 🤖 **Machine Learning**
+- Deep Learning
+- Natural Language Processing (NLP)
+- Reinforcement Learning
+- Data Science
 
-- **ML:** klasifikasi/deteksi gambar, NLP ringan, fine-tuning, tracking eksperimen, dan deployment model (API/Batch).
-- **Web:** REST/GraphQL, autentikasi JWT/OAuth, arsitektur modular, caching, dan observability.
-- **IoT:** telemetri sensor, komunikasi MQTT, OTA update, dan dashboard realtime.
-
----
-
-## 📌 Portofolio 
-
-- 🔗 **Restoran:** <a href="https://github.com/Roysintax/restoran#">Klik Disini</a> — Laravel.
-
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-333333?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+#### 🌐 **IoT (Internet of Things)**
+- Embedded Systems
+- IoT Protocols
+- Sensor Networks
+- Edge Computing
 
-<img src="github-metrics.svg" alt="Metrics" width="100%">
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-333333?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-333333?style=for-the-badge&logo=mosquitto&logoColor=white)
 
-## 🤝 Kontak & Kolaborasi
+---
 
-Butuh bantuan riset, membangun MVP, atau mengerjakan proyek IoT? Silakan hubungi saya melalui **email** atau <a href="https://www.linkedin.com/in/roysihan-7b89a8246/">**LinkedIn**</a> di atas. Terima kasih! 🙌
+#### 💻 **Fullstack Development**
+- Frontend (React, Vue, Angular)
+- Backend (Node.js, Express, Django)
+- Databases (MongoDB, PostgreSQL, MySQL)
+- APIs (RESTful, GraphQL)
+
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=for-the-badge&logo=graphql&logoColor=white)
+
+---
+
+### 🚀 **Let’s Connect!**
+Feel free to check out my latest projects below and reach out to me if you’re interested in collaborating.
+
+---
+
+### 🎯 **GitHub Stats & Activity**
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+### 💡 **Fun Fact**
+- I’m constantly learning and improving my skills.
+- I love tackling new challenges and contributing to the tech community.
+- Always up for a good hackathon or coding competition!
+
+---
+
+### ⚡ **Current Focus**
+- Building AI/ML models for automation.
+- Working on IoT-driven smart home applications.
+- Focusing on cybersecurity and ethical hacking projects.
+
+---
+
+### 🎉 **Animated Header with CSS (optional)**
+
+You can add a little animation to your profile using CSS if you want to show it on your personal website or other platforms. Unfortunately, GitHub doesn't support animation directly in markdown, but you can use external tools like **[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)** for dynamic and interactive stats.
+
+---
+
+### 🔧 **Languages and Tools**
+```bash
+# I love coding in these languages
+Python
+JavaScript
+C++
+Java
+
+# And working with these tools
+Docker, Kubernetes, AWS, GCP, Jenkins, Git
