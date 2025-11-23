@@ -67,20 +67,17 @@
 
 <br/>
 
-<h2>📊 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Roysintax">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Roysintax&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Roysintax GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/Roysintax">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roysintax&layout=donut&theme=tokyonight&hide_border=true" alt="Roysintax Top Languages" />
+  </a>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
-<br/>
 
 <h2>📫 Let's Connect</h2>
 <p align="center">
