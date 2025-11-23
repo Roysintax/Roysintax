@@ -5,7 +5,7 @@
 <h3 align="center">A Passionate Tech Enthusiast from Indonesia</h3>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3596F7&center=true&vCenter=true&width=435&lines=Cybersecurity+Expert;Machine+Learning+Enthusiast;IoT+Developer;Fullstack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3596F7&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Machine+Learning+Enthusiast;IoT+Developer;Fullstack+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
