@@ -71,11 +71,19 @@
 
 <div align="center">
   <a href="https://github.com/Roysintax">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Roysintax&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Roysintax GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Roysintax&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Roysintax Stats" />
   </a>
   
   <a href="https://github.com/Roysintax">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roysintax&layout=donut&theme=tokyonight&hide_border=true" alt="Roysintax Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roysintax&layout=compact&theme=tokyonight&hide_border=true" alt="Roysintax Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Roysintax">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roysintax&theme=tokyonight&hide_border=true" alt="Roysintax Streak" />
   </a>
 </div>
 
