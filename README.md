@@ -69,13 +69,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35CE8D&center=true&vCenter=true&width=435&lines=Hi,+I'm+Roysihan;Junior+Programmer;Machine+Learning+Enthusiast;IoT+%26+Arduino+Maker;Web+Developer)](https://git.io/typing-svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roysintax&theme=tokyonight)
 
-<br/>
+<br>
 
-[![Roysintax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roysintax&show_icons=true&theme=radical&hide_border=true)](https://github.com/Roysintax)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Roysintax&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roysintax&layout=compact&theme=radical&hide_border=true)](https://github.com/Roysintax)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Roysintax&theme=tokyonight&utcOffset=7)
 
 </div>
 
