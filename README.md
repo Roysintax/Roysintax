@@ -67,16 +67,16 @@
 
 <br/>
 
-## 🏆 Achievements
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Roysintax&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📉 Development Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roysintax&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
-  <a href="https://github.com/Roysintax">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roysintax&theme=tokyonight&hide_border=true" alt="Roysintax Streak" />
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35CE8D&center=true&vCenter=true&width=435&lines=Hi,+I'm+Roysihan;Junior+Programmer;Machine+Learning+Enthusiast;IoT+%26+Arduino+Maker;Web+Developer)](https://git.io/typing-svg)
+
+<br/>
+
+[![Roysintax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roysintax&show_icons=true&theme=radical&hide_border=true)](https://github.com/Roysintax)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roysintax&layout=compact&theme=radical&hide_border=true)](https://github.com/Roysintax)
+
 </div>
 
 <h2>📫 Let's Connect</h2>
